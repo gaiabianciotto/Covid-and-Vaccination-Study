@@ -1,0 +1,10 @@
+## COVID-19 and Vaccination Datasets  
+
+You can access the original **COVID-19 dataset** used in this report here:  
+🔗 [Our World in Data - COVID-19 Deaths](https://ourworldindata.org/covid-deaths)  
+
+For the purpose of this project, I have split the dataset into two separate datasets:  
+- **COVID-19 Dataset**  
+- **Vaccination Dataset**  
+
+This was done to enhance clarity and facilitate analysis.  
